@@ -26,7 +26,7 @@ Below are the SQL statements for cleansing and transforming the data.
 
 The cleaned datasets were then loaded into Power BI in order to develop data model. This data model shows how FACT_Budget has been connected to FACT_InternetSales and other necessary DIM tables.
 
-![](/Docs/Assets/Data%20Model%20Sales.png   
+![](/Docs/Assets/Data%20Model%20Sales.png)   
 
 
 ## Sales Analysis Dashboard
